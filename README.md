@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">Bridging the gap between dev and AI</h3>
 
-- 🔭 I’m currently working on [Heirarchical Large Code Summarization](https://github.com/ayushroy64/heirarchical_summarization)
+- 🔭 I’m currently working on [GoWhere](https://github.com/ayushroy64/gowhere)
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://ayushroy.netlify.app/](https://ayushroy.netlify.app/)
 
